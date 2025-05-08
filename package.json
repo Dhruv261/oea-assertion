@@ -1,0 +1,25 @@
+{
+  "name": "oea-assertion",
+  "version": "1.0.0",
+  "description": "Assertion for One App",
+  "main": "index.ts",
+  "files": [
+    "index.ts",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "oea-assertion"
+  ],
+  "author": {
+    "name": "Dhruv",
+    "email": "dhruv.2.dhiman@gmail.com"
+  },
+  "dependencies": { 
+    "typescript": "^5.6.3"
+  },
+  "license": "ISC"
+}
